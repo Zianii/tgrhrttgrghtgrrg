@@ -1371,6 +1371,9 @@ Bot By iiRoNey
  ❖ $clear ➾ clear chat (Dont Use Up OF 100)
  ❖ $mutevoice < mention > ➾ mutevoice member
  ❖ $unmutevoice <mention> ➾ unmutevoice member
+ ❖ $mute <mention> 60 <reason> ➾ mute member
+ ❖ $unmute <mention> ➾ unmute member
+ ❖ $ban <mention> ➾ ban member from server
  ❖ $tv ➾ create channel With Your Type
  ❖ $bc <message> ➾ message all members in server
 ╔[❖════════════❖]╗
@@ -1379,8 +1382,7 @@ Bot By iiRoNey
 ❖ $date ➾ see date (متقدم ساعتين)
 ❖ $inv ➾ server invite
 ❖ $ping ➾ to see ping 
-❖ $bot ➾ bot informations 
-❖ $invite ➾ bot invite link
+❖ $bot ➾ bot informations
 ❖ $اذكار ➾ azkar
 ╔[❖════════════❖]╗
                     Welcome
