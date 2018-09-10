@@ -32,7 +32,7 @@ client.on('ready', () => {
 
 
 
-const adminprefix = "%";
+const adminprefix = "$";
 const devs = ['283580465862934539','404142491344830484','425003158167748629'];
 client.on('message', message => {
   var argresult = message.content.split(` `).slice(1).join(' ');
