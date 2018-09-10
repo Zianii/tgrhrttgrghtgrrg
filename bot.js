@@ -1524,7 +1524,19 @@ msg.reply('اهلين منور حبي ')
               }, 1)
 });
 
+client.on('message', msg => {
+  if(msg.content === 'برفكس')
+              setTimeout(function() {  
+msg.reply('البرفكس حقي هو : $')
+              }, 1)
+});
 
+client.on('message', msg => {
+  if(msg.content === 'البرفكس')
+              setTimeout(function() {  
+msg.reply('البرفكس حقي هو : $')
+              }, 1)
+});
 
 client.on('guildMemberAdd', member => {
     let channel = member.guild.channels.find('name', 'fgefgefhttrhtr');
